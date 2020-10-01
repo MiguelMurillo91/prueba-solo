@@ -2,3 +2,4 @@ INICIO PROYECTO ARCHIVO AUXILIAR
 modificado desde rama
 modificado desde rama 2
 todo bien
+enviando por SSH
