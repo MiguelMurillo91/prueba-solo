@@ -1,2 +1,3 @@
 INICIO PROYECTO ARCHIVO PRINCIPAL
 modificado desde master
+basura
