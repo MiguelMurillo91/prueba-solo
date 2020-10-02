@@ -4,7 +4,4 @@ modificado desde rama
 modificado desde rama 2
 todo bien
 enviando por SSH
-<<<<<<< HEAD
 yo trabajando en cambios
-=======
->>>>>>> 21e238173055c27418af761e5c60f02d6b1cb9e8
